@@ -1,0 +1,14 @@
+{
+  "name": "meritons_portfolio",
+  "version": "1.0.0",
+  "description": "my_portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Meriton Dervisholli",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
