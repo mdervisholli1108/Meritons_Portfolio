@@ -19,7 +19,7 @@ h1,
 h2,
 h3 {
     margin: 0;
-    font-weight:400;
+    font-weight:450;
     &.lg-heading {
         font-size: 6rem;
       }
@@ -27,13 +27,14 @@ h3 {
       &.sm-heading {
         margin-bottom: 2rem;
         padding: 0.2rem 1rem;
-        background: rgba(lighten($primary-color, 2), 0.5);
+        background: rgba(lighten($primary-color, 2), 0.3);
       }
     }
     
     a {
-      color: #fff;
-      text-decoration: none;
+      color: #ffffff;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
     }
     
     header {
@@ -53,6 +54,7 @@ h3 {
       
         .icons {
           margin-top: 1rem;
+          display: flex;
 
           a {
             padding: 0.4rem;
