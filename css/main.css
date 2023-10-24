@@ -41,7 +41,7 @@
   .menu-nav {
     margin: 0;
     padding: 0;
-    background: url(../img/menu.jpg);
+    background: url(../Img/menu.jpg);
     background-attachment: fixed;
     background-size: cover;
     list-style: none;
@@ -63,7 +63,7 @@
       margin-top: 00px;
       width: 240px;
       height: 240px;
-      background: url("../img/Screenshot 2023-10-21 203559.jpg");
+      background: url("../Img/Screenshot 2023-10-21 203559.jpg");
       border-radius: 50%;
       border: solid 4px #010bd0; }
 
@@ -111,7 +111,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../img/menu.jpg);
+    background: url(../Img/menu.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
@@ -285,7 +285,7 @@ main {
     height: 28vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url("../img/ScreenshotSmall.jpg");
+      background: url("../Img/ScreenshotSmall.jpg");
       width: 160px;
       height: 160px;
       border: solid 3px #010bd0; }
