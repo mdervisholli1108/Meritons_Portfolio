@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "my_portfolio",
   "main": "index.js",
-  "homepage": "https://mdervisholli1108.github.io/Meritons_Portfolio/",
+  "homepage": "https://mdervisholli1108.github.io/Meritons_Portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
